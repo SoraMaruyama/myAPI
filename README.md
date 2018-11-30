@@ -4,9 +4,10 @@
     If you want to build API without this repository, I recommend the following contents on YouTube!
 
 - [How to build API](https://shiffman.net/a2z/node-api/)
+
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=P-Upi9TMrBk
   " target="_blank"><img src="http://img.youtube.com/vi/P-Upi9TMrBk/0.jpg" 
-  alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+  alt="IMAGE ALT TEXT HERE" width="540" height="380" border="10" /></a>
 
       If you want to try first with my code?
       Continue reading!
@@ -92,16 +93,29 @@
 
         ```
         send a GET request
-        URL:
+        URL:localhost:3000/api/sakes
 
         ```
         send a GET request
-        URL:
+        URL:localhost:3000/api/sakes?name=seiriki
 
         ```
         send a GET request
-        URL:
+        URL:localhost:3000/api/sakes?maker=中村酒造
 
         ```
 
     4. Try POST method with your Rest API testing tool.
+
+        ```
+        send a POST request
+        URL:localhost:3000/api/sakes
+
+        [sample JSON data to add](https://docs.google.com/presentation/d/1WvOSvJmV0LIy3G9Lmk9LD1VIcNsK4tgKBLXWRAfzXSc/edit#slide=id.g483486a142_0_421)
+
+
+        ```
+        send a GET request
+        URL:localhost:3000/api/sakes
+
+        ```
