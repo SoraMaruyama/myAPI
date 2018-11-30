@@ -48,5 +48,9 @@
 
 # How to fork and clone this Repository
 
-    If you do not want to create code from scratch OR if you want to do play around with sample code,
+    If you do not want to create code from scratch or if you want to do play around with sample code,
     please use this repository to explore!
+
+    1. Folk 'myAPI' >> [How To](https://help.github.com/articles/fork-a-repo/)
+
+    2. Clone your folked 'myAPI'  >> [How To](https://help.github.com/articles/cloning-a-repository/)
