@@ -1,6 +1,15 @@
 # Starter Kit for your first REST API in JavaScript.
 
     This codebase should serve for someone who wants to create his or her first RESTful API.
+    If you want to build API without this repository, I recommend the following contents on YouTube!
+
+- [How to build API](https://shiffman.net/a2z/node-api/)
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=P-Upi9TMrBk
+  " target="_blank"><img src="http://img.youtube.com/vi/P-Upi9TMrBk/0.jpg" 
+  alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+      If you want to try first with my code?
+      Continue reading!
 
 ---
 
@@ -67,32 +76,32 @@
     1. Let your package manager install modules you need for myAPI.
 
 
-    ```
-    yarn
+        ```
+        yarn
 
-    ```
+        ```
 
     2. Start web server in myAPI.
 
-    ```
-    yarn start
+        ```
+        yarn start
 
-    ```
+        ```
 
     3. Try GET method with your Rest API testing tool.
 
-    ```
-    send a GET request
-    URL:
-
-    ```
+        ```
         send a GET request
-    URL:
+        URL:
 
-    ```
+        ```
         send a GET request
-    URL:
+        URL:
 
-    ```
+        ```
+        send a GET request
+        URL:
+
+        ```
 
     4. Try POST method with your Rest API testing tool.
