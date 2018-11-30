@@ -30,19 +30,19 @@
 
 1. Install the latest version of "Node.js".
 
-   - What is Node.js?
-   - How to install
-   - Install Now!
+   - [What is Node.js?](https://nodejs.org/en/about/)
+   - [Install Now!](https://nodejs.org/en/)
 
 2. Install package manager "Yarn".
    \*npm is also a popular choice.
 
-   - What is a Package Manager?
-   - What is Yarn?
-   - How to install
-   - Install Now!
+   - [What is a Package Manager? What is Yarn?](https://www.youtube.com/watch?v=7n467QmiANM)
+   - [Install Now!](https://yarnpkg.com/lang/en/docs/install)
 
 3. Install Rest API testing tools such as Insomnia or Postman.
+
+   - [Install Insomnia](https://insomnia.rest/)
+   - [Install Postman](https://www.getpostman.com/)
 
 ---
 
@@ -51,9 +51,11 @@
     If you do not want to create code from scratch or if you want to do play around with sample code,
     please use this repository to explore!
 
-    1. Folk 'myAPI' >> [How To] (https://help.github.com/articles/fork-a-repo/)
+    1. Folk 'myAPI'
+    [HowTo](https://help.github.com/articles/fork-a-repo/)
 
-    2. Clone your folked 'myAPI'  >> [How To] (https://help.github.com/articles/cloning-a-repository/)
+    2. Clone your folked 'myAPI'
+    [HowTo](https://help.github.com/articles/cloning-a-repository/)
 
 ---
 
