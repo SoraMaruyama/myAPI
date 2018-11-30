@@ -44,6 +44,9 @@
    - [Install Insomnia](https://insomnia.rest/)
    - [Install Postman](https://www.getpostman.com/)
 
+4. Install a Code Editor.
+   \*VS Code is recommended!
+
 ---
 
 # How to fork and clone this Repository
@@ -51,11 +54,11 @@
     If you do not want to create code from scratch or if you want to do play around with sample code,
     please use this repository to explore!
 
-    1. Folk 'myAPI'
-    [HowTo](https://help.github.com/articles/fork-a-repo/)
+1. Folk 'myAPI'
+   [HowTo](https://help.github.com/articles/fork-a-repo/)
 
-    2. Clone your folked 'myAPI'
-    [HowTo](https://help.github.com/articles/cloning-a-repository/)
+2. Clone your folked 'myAPI'
+   [HowTo](https://help.github.com/articles/cloning-a-repository/)
 
 ---
 
@@ -63,6 +66,33 @@
 
     1. Let your package manager install modules you need for myAPI.
 
+
     ```
     yarn
+
     ```
+
+    2. Start web server in myAPI.
+
+    ```
+    yarn start
+
+    ```
+
+    3. Try GET method with your Rest API testing tool.
+
+    ```
+    send a GET request
+    URL:
+
+    ```
+        send a GET request
+    URL:
+
+    ```
+        send a GET request
+    URL:
+
+    ```
+
+    4. Try POST method with your Rest API testing tool.
