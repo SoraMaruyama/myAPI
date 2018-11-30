@@ -72,7 +72,7 @@
 
 ---
 
-# Procedure - After cloning myAPI
+# Procedure on Your PC - After cloning myAPI
 
     1. Let your package manager install modules you need for myAPI.
 
@@ -89,33 +89,47 @@
 
         ```
 
-    3. Try GET method with your Rest API testing tool.
+    3. Send GET request with your Rest API testing tool.
 
         ```
-        send a GET request
+        <GET method>
         URL:localhost:3000/api/sakes
 
         ```
-        send a GET request
+        <GET method>
         URL:localhost:3000/api/sakes?name=seiriki
 
         ```
-        send a GET request
+        <GET method>
         URL:localhost:3000/api/sakes?maker=中村酒造
 
         ```
 
-    4. Try POST method with your Rest API testing tool.
+    4. Send POST request with your Rest API testing tool.
 
         ```
-        send a POST request
+        <POST method>
         URL:localhost:3000/api/sakes
 
-        [sample JSON data to add](https://docs.google.com/presentation/d/1WvOSvJmV0LIy3G9Lmk9LD1VIcNsK4tgKBLXWRAfzXSc/edit#slide=id.g483486a142_0_421)
+        [sample JSON data to add]
+                {
+                "id": "1",
+                "name_ja": "勢力",
+                "name_en": "seiriki",
+                "maker_ja": "MySakeMaker",
+                "address": "Tokyo",
+                "url": "http://www.myapi.com/"
+                }
 
 
         ```
-        send a GET request
-        URL:localhost:3000/api/sakes
+        <GET method>
+        URL:localhost:3000/api/sakes/1
 
         ```
+
+---
+
+# Suggestions
+
+    - Edit JSON file, server.js, controller.js to CREATE YOUR OWN API!
