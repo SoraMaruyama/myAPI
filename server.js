@@ -4,7 +4,9 @@ const express = require("express");
 const app = express();
 //define a port and create a webserver
 const port = process.env.PORT || 3000;
-app.listen(port);
+app.listen(port, () => {
+  console.log(`Your Web Server is ON! Go to http://localhost:${port}!`);
+});
 
 //import callback functions from controller.js
 const {
